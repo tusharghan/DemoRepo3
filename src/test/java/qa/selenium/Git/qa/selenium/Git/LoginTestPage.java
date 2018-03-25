@@ -1,13 +1,5 @@
 package qa.selenium.Git.qa.selenium.Git;
 
+public class LoginTestPage {
 
-
-
-
-public class LoginPage {
-	
-	
-
-	
-	
 }
